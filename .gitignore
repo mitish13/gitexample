@@ -1,3 +1,2 @@
 log.txt
-node-modules
-
+/dir2(ignore me)
